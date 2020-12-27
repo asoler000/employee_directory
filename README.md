@@ -1,6 +1,6 @@
 # Unit 19 React Homework: Employee Directory
 
-![alt text](employee-dir-react.png)
+![alt text](employee-dir-react.gif)
 
 ## Overview
 
