@@ -51,7 +51,7 @@ Follow these guidelines for committing:
 
 You are required to submit the following:
 
-* the URL to the deployed application
+* https://asoler000.github.io/employee_directory/
 
 * https://github.com/asoler000/employee_directory/
 
